@@ -1,1 +1,2 @@
-console.log('hello world');
+// 打印Hello World
+console.log('Hello World')
